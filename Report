@@ -1,0 +1,368 @@
+RMIT INTERNATIONAL UNIVERSITY VIETNAM
+
+ASSIGNMENT COVER PAGE
+ 
+Subject Code
+COSC2083
+Subject Name
+Intro To IT
+Location and Campus
+Saigon South Campus
+Title of Assignment
+Our IT project
+Type of Assignment
+  Group project
+Student Name
+Khang Le
+Trung Tran
+Hoang Truong
+Lam Nguyen
+Student Number
+s3915132
+s3891724
+s3878262
+s3915155
+Lecturer
+Long Nguyen Minh
+Assignment Due Date
+September 19th, 2021
+Date of Submission
+September 19th, 2021
+
+Table of Content
+Table of content	2
+Team profile	3 - 5
+Tools	5
+Project description:
+	- Overview	5 - 6
+	- Aim	6 - 7
+	- Plans and Progress	7 - 9
+	- Roles	9	- Scope and Limits	 9 - 10
+	- Tools and Technologies	10 - 11
+	- Testing	11
+	- Timeframe	12 - 17
+	- Risks	17 - 18
+	- Group processes and communications	18
+Skills and Jobs	19 - 20
+Feedback	20 -21
+Group reflection	22 -23
+Reference list	24
+
+Team profile
+Team Name: Peak Performers
+Personal Information:
+My name is Khang Le. My student number is s3915132. I am 19 years old and a first year student. I have been living in Ho Chi Minh city for almost my entire life. My hobbies are playing games and listening to music. I play sports, such as football, basketball, table tennis, etc. My first impression or interest about IT is that it is a good career to have because I can make good money. After 9 weeks studying at RMIT, my interest changed as I realized that there is so much more about IT than the “high-salary” phrase that people always refer to. During my study about coding, I noticed that the world of IT is significantly bigger than I have ever imagined. There are lots of languages that I can learn and also many types of jobs that I can choose. My experience with IT is not that much. However, I am frankly doing fine with Python and SQL though it gets hard sometimes. 
+My name is Tran Quoc Trung and I am 19 years old. My student number: S3891724. This is my first year of studying Information Technology at RMIT and I am going to minor in mobile and web development. In my freetime, I usually play video games, go out with friends or read and watch information about technologies such as software creation, hi-tech device inventions and other new technologies that make life and business processes easier. That may be the place that I found my interest in the IT industry. Moreover, after the first time using a programming language in grade 8, I have had an inspiration to learn about programming, especially in solving problems. Those are the reasons why I chose to study Information Technology. 
+My name is Truong Chan Hoang, and my student ID is s3878262. I'm currently 18 years old and will turn 19 this December. My favourite hobby is playing games, watching movies and playing sports, especially basketball but I'm not really that good at it. I studied in Ho Chi Minh city since, I was born until after 10th grade. I moved to America to study my junior and senior year. Actually, I didn't plan to go back to Vietnam to study but because of COVID-19's situation in America was really bad back in 2020. Coming back from America, I chose RMIT to study because at first, I heard a lot of good experiences in Bachelor of Business. After 1 semester, I don't really like dealing with a lot of numbers and graphs. I used a lot of my time on the computer, and I realized that IT would be an exciting topic to learn. I don't have much experience with IT, in the past, I learned some about coding but did not go deep into it. 
+My name is Nguyen Thi Quynh Lam, 26 years old, and I am currently a freshman at RMIT. Before attending this university, I graduated with a degree in environmental science and then worked as a GIS technician for a forestry institute in Ho Chi Minh City for two years. My previous job was related to Geographic Information System (GIS), which required IT background and extensive data analytics, so I decided to study again to reinforce my knowledge. I am interested in Data Analysis and Machine Learning, and I believe that these fields can support my current understanding of GIS technology. My hobbies are reading books, novels and watching movies. I desire to work with a team whose members are friendly, comfortable, cooperative, open-minded, and supportive when the team faces any difficulties. My student ID is s3915155, and my email is s3915155@rmit.edu.vn.
+Group Processes
+In the first four weeks of this project, we have been able to form a group and work effectively and smoothly with each other to complete most of the report before the plan. If assignment 3 is extended, we believe that we can get to know each other better, have more fun and even work more efficiently.
+Career Plans
+Khang: My career plan or my ideal job is to become a software developer for IOS/Android/ MacOS/Windows. My goal is to have a decent salary and to work with smart and friendly people. I have yet to think of my long term goals but that is my short term goal after graduation. 
+Trung: My career plan is to become an web or app developer of an outsourcing software company because I am interested in solving problems, so this would be an ideal place for me to deal with a variety of problems in projects.
+Hoang: My career plan for now is to finish off game development. In the future, I would like to either become a game developer or a game tester, because both have a very high average salary and it's really close to me since I like things about gaming. 
+Lam: My career plan is to continuously sharpen essential knowledge and skills during study time and look for opportunities to participate in small projects to understand my future work. After graduating RMIT and working for a few years, I hope to have the chance to do graduate studies, pursue long-term scientific research, and become a data scientist.
+Compare and contrast: Khang and Trung’s career plans are quite similar, where both want to be web and application developers. However, the motivations are different, while Khang wants to have a decent salary, whereas Trung wants to solve problems. Hoang’s career plan is all about gaming. He has the same motivation as Khang, which is to have a decent amount of salary. Lam’s career plan is the most unique, as she wants to continue to study and research, gaining more knowledge to become a data scientist. 
+Tools
+In the first four weeks, we have chosen and discussed the idea of the project. We also have a proposal report including both overview and detailed description on our project idea, technical requirements, our scopes and limitations, a schedule for all 16 weeks of the project. Additionally, after four weeks working together, we have given feedback for each other and reflected on how we have worked together.
+Github repository link:
+Website link:
+Project description
+Overview project 
+After our discussion, we as a group came to the decision of making a cooking recipe suggestion application. This idea was created by Trung and we see that it would make a big impact on people that love cooking. The application would be a very helpful tool for anyone who wants to cook, including newbies, moms and professional chefs. 
+Food has always been a vital factor in our daily life and having good quality and delicious food would significantly improve our living experiences. Gallup & Cookpad (2019) reveal that each person in this globe cooked 6.9 meals a week, especially in Asia where the number increases to 7.3 meals per week. These statistics indicate that there is a big demand on cooking and when it comes to cooking, recipes are indispensable. 
+At the current time, because of the pandemic, more and more people are starting to prepare meals at home. According to Hunter (2020),54% of the US citizens who participated in the survey cook more than before COVID-19. As a result, numbers of online searches about cooking recipes skyrocketed up to 60%. However, searching takes time and there are people who simply do not have time to search because of their occupation. For this reason, we have chosen to create a cross-platform database application that can make cooking more accessible. With this project idea, not only can we create a helpful application for the community, we also show employers that our group can build projects based on the world trends. Our project will be useful and the chances of success are much higher. 
+At the beginning, we have determined that if we choose to work on this project, there will be some competition with other similar applications, such as "allrecipes.com" or "taste.com". These are projects which have existed for a decent amount of time and they are difficult competitors for us to overcome. However, we are confident that our project is better in every way. Unlike other projects, our application allows users to input their available ingredients and it will find cooking recipes based on what data the users have put in. We will also have UIs that are comprehensible for everyone at every age and every language. The theme of the website/application will be simplistic, which is the current trend of the world. Moreover, there are special features which will be discussed later in the report. 
+
+Detailed Description
+Aims
+Cooking is an indispensable skill that each human needs to live a good life. It is also our main goal for the project. As discussed in the overview of the description, the project's aim is to make cooking more accessible for people. To do that, we need to start from small things. 
+The first goal that we need to achieve is to have as many recipes as we can. People do not like cooking because they do not know what to make, what to do and how to do it. These issues can be solved when there are recipes that you can base on to create food that you love. 
+The second goal that we need to achieve is to reduce that amount of cooking time. Another reason for why people do not cook is because not everyone always has time to cook. There are meals which take hours to make and it causes stress which leads to people refusing to cook. Our application can find 5-minute recipes for users to make with their available ingredients. 
+Finally, the third goal that we need to achieve is to inform people that cooking is one of many ways that they can save money. Many people do not understand and realize the impact of cooking on their financial situation. According to Money Under 30, the average American household spends about 3000 dollars a year dining out, which is 325% more than a home cooked meal. It means that if you have two out of three meals per day home cooked, you can save up to 1000 dollars per year. To achieve this, our application will tell the user how much their meal costs and compare it to dining out. 
+
+Plans and Progress
+Plans
+As discussed in two previous sections, our project is an application that can find cooking recipes for people that want to cook with their available ingredients. The application goal is to make cooking more accessible to people, making sure that users use less time on cooking but still create delicious meals within their budget. In order to accomplish our goals and successfully create the application, we divide the projects into different parts. Firstly, because the project main feature, which is providing recipes, depends on the database, therefore we will create a "perfect database". In other words, we will write codes based on algorithms to collect any data and information that relates to cooking and its recipes. The codes will then include different features, as we also provide special cooking recipes for a special group of users, which is the group of people who have diabetes, high blood cholesterol, etc. Accordingly, the code must contain both information and integrity. To summarize, the database will collect cooking recipes from all over the world, including recipes for special users and all the information will be verified. From this, users will have both safety and satisfaction when using the application. Secondly, the project will find cooking recipes that have the smallest amount of time to cook. Knowing that time is essential for everyone, the database of the project will also collect the average time to cook any dishes with any ingredients, and the results will depend on what ingredients input and dishes the users choose to make. If the user does not have time to cook, he or she can select 5-minute recipes mode, types in the available ingredients, then the application will find a recipe that meets those qualities. Thirdly, the application will provide recipes which are within the user's budget. There are numerous users that want good food without spending too much on it, therefore we figure out a way to make it possible. The database will contain information on cost of ingredients, locations where users can get them and the quantity that they need. From this, the code will calculate the minimum cost for users who want to spend a minimum amount of money on food. Fourthly, our application will calculate the meals' calories based on ingredients and its nutrition information, which is stored in the database. When the user chooses a meal, the applications will automatically take the nutrition information of ingredients from the database and calculate the total amount of calories, etc. This feature is for users who are on diets and care about their eating habits. Fifthly, the application needs an appealing theme. The first platform where this project will be operated is a website. Therefore, we plan to have a simplistic and lovely UI/UX so that it can be more attractive for users. Finally, to contain the website and our "perfect database", we need a decent server and plenty of hardware supplies to run the project. 
+Progress
+According to our group plans for the project, we are currently building our "perfect database". Because this is the third week of the whole 16-week project, it is estimated to take us one to two more weeks to finish the database. We are working everyday on it and trying to use both SQL and Python to create what we want. For us, the SQL part is quite simple, since we started making our tables from ERD. The tough part that we have yet to finish is the Python code. Our group has not had enough experience with Python yet, therefore it takes us a long time to figure out what we want to make and how we are going to write code for it. We are currently stuck at the part where the code will take information from existing databases and bring that to our own server. However, we plan to finish it in the fourth week. Because the database has yet to be finished, as a result, most of the features which we proposed above have not been formed yet. Even though the database is not finished, we still have people working on making the UI so that we can have a first look at our website. The UI is planned to be finished within the next two weeks. Our theme for the UI is simplicity and loveliness, therefore the main color for the theme would be white and pastel colors. As first-semester students, we know nothing about UX/UI, therefore it takes us a while to figure out the tools that we need in order to develop the UI for the application. We are currently studying basic HTML and CSS to achieve this goal. Along the way, we have met many dead-ends, such as not knowing where to find the code, where and when to use the syntax. Moreover, we sometimes get confused with the ERD because the information was overloaded. In general, we have just started the project for 3 weeks so the challenges have yet to fully appear. However, as we continue working on it, we believe that we can overcome the hardships and achieve our goal. To summarize, for the next three to four weeks, we need to make the database and the UI work properly. After this phase, we are going to rent a server, which can contain all of the data and statistics, and  test all the functions, features and algorithms to see if there are any mistakes. If there are no errors in the application, we will move to the testing survey, where we invite people to use the application and give us feedback. Once the testing phase is over and the feedback is positive, we will then launch the official website of our project. 
+
+Roles 
+There are roles that are required to contribute to the success of this project. Firstly, because the project directly relates to database development, it needs a role of database designer who will design the ERD, relational schema and database, operate and maintain the server and system. Secondly, there will be a mobile application developer for both IOS and Android, a desktop application developer for Windows and MacOS, and one more website developer. This will be a cross platforms application so each role will be responsible for each platform development. Thirdly, all of the previous roles are about back-end development, we further need an user interface (UI) and user experience (UX) designer to build all the UI and UX parts of the application in all platforms. Finally, a project manager plays a crucial role in planning, organising and managing all the parts of the project to ensure the quality of application and the progress time of the project. With these roles, we believe that the project could achieve all the scopes in the time available with a successful outcome.
+
+Scope and Limits
+With the schedule of 16 weeks of planning, organising and doing the project, our scopes for this project:
+User account system.
+A sufficient recipe database which will get data mostly from cooking books.
+A website which is the first platform we are going to create.
+Users can search for recipes by their available ingredients input by text.
+The website will have an appealing and exclusive UI/UX design.
+Users can have suggestion recipes from their recorded history in users’ accounts.
+Some of the recipes in the database will have special tags for special needs such as recipes for diabetes patients, high blood cholesterol and triglycerides patients. These recipes will be collected in some special books in order to provide the most accurate meals to these special groups of people. 
+Some of the recipes will include the amount of calories contained in each.
+Users can give ratings and comments for the recipes on the website.
+Users can view and follow the instructions in the video to cook the meal.
+Users can choose a list of meals and what ingredients they already have, the application will generate a list of needed ingredients to buy so users can check it when they go to the supermarket or market.
+
+Because we are all freshmen in the IT program, there are so many limitations in software development experience and other required skills. Therefore we have to research and study a lot of new tools, coding and skills during the processes of doing the project. The schedule of 16 weeks would not be sufficient and there are many features will be out of our scopes compare to our project idea:
+Users will not be able to contribute their creative recipes yet.
+There will not be advertisements suggestion based on users’ cooking hobbies.
+System or forum to connect people who share the same interest in cooking would not be developed in this first stage of the project idea.
+Voice-recognised features for inputting ingredients will also not be included.
+Desktop and mobile platforms will also not be supported in this first stage of the idea.
+
+Tools and Technologies 
+In order to make the program, we have gathered some tools that we need to create the program. We have come up with a back-end and front-end development, within each we will have different programming languages that best suits them. For the back-end,  we are going to use Python and SQL as the programming language. It is very essential for us to have a framework, since it saves a lot of time and effort building the app; in this case we will be using Django as the framework for our web development. Following this, everyone chooses to have Oracle APEX to handle our database more easily, which will be where I generate the database.
+On the front-end, I can use HTML, CSS, and JavaScript as my programming languages. The same as the backend, I am going to choose a framework which are Reactjs to create high performance and engaging UI layer as it is in the JavaScript library, the second framework is React Native which is for us to be able to make a cross-platform applications, it could be on iOS, Android, etc.
+After making the program, we need to deploy the application and that is where Linux comes in handy as my operating system. Lastly, we will use GitHub to be our version control so that we are able to track and manage all the changes to the code. Creating this app would not need very serious hardware to handle it, the first thing that comes to my mind is going to have an SSD so that everything is faster. 
+Testing 
+Testing is very important when making a program; any program should be tested carefully before fully deploying it publicly.  I should test if the interaction in the front-end is working. The front-end only involves UI elements so I have to test the graphics, visible text, formatting, layout, and most importantly, all the functional elements such as buttons to search for ingredients and recipes, forms, and links. I can also identify how quickly these features load, how responsive they are to the users’ actions, and how quickly they can execute user requests. I should be able to put in any ingredients and be able to search for recipes that contain those ingredients we put in. While testing, starting from only one ingredient and then continuing to increase the amount of ingredients we have to narrow down some more recipes. After testing the front-end, I am going to test the back-end. To test the back-end, I will be testing if the database is still working, trying to generate different data to see if there is any data loss during the test. 
+Beside testing the program ourselves, having different types of users to test is very helpful for us. First of all, we create a survey for 100 people, then we split up 4 parts, the first 30 people will be people who have very few experiences or completely unfamiliar with cooking, the next 30 people are going to be housewives, the following 30 people are going to be people who are very busy with their normal life and have very little time whatsoever to do cooking. The final 10 people will be chefs. After getting all the required users, we start to let users test our beta version of the program. Then, those users will use the survey to give us feedback about the program, is it working properly, should anything be changed or added, did it help the users to create the food. After that we can improve base on the feedback that was given by the testers of the survey
+
+
+Timeframe
+Weeks
+Tasks
+Outcome
+Week 1
+- First meeting and discussion about project ideas of each member
+- Forming the report parts and dividing some parts of project description to each particular member
+Khang Le:  Overview and Aim
+Trung Tran: Roles and Scopes & limits
+Hoang Truong: Tools & Technologies and Testing
+Lam Nguyen: Risks and Group processes & communication
+- Team members get to know each other
+- Report structure
+- Project idea
+- Specific writing report tasks for members.
+Week 2
+- Members insert their personal information and career plans for the team profile part
+- Members insert their writing parts of the project description
+- Meetings for tasks cross-check and writing group parts: Plans & progress and timeframe
+- Nearly finish the team profile except the group processes part
+- Finish all the individual parts of the project description and have a cross-check in meeting
+- Finish a part of the plans & progress and timeframe
+Week 3
+- Members provide their own reflection on group
+- Meetings to give feedback and write the other group parts of the report
+- Publish the report on Github as a website and add link to the tool part
+- Prepare content and slides for the presentation
+- Finish all the parts of the report and hosted website on Github
+- Ready to give presentation
+Week 4
+- Record the presentation parts of each members and combine them together
+- Meeting to review the presentation video and develop the ERD, relational schema idea for the application
+- Presentation video is done
+- Submit report and presentation video 
+- Get an idea about how the ERD and relational schema of the application will be designed
+Week 5
+- Finding and researching on how to use tools and other necessary things
+Getting familiar with necessary tools/ software: 
+- Tools for creating website: HTML, CSS, and JavaScript
+-Tools for generating databases: Oracle APEX, Python, etc.
+-Tools for designing features: Reactjs
+Week 6
+- Trung Tran: design the ERD, relational schema and get a database ready
+- Hoang Truong - Khang Le: begin working on the main feature of inputting ingredients to search for recipes
+- Lam Nguyen: design UI UX for the application
+- Meetings to review each other work, test what have been done and plan for the improvement and the next tasks
+- Finish the ERD, relational schema
+- The searching recipe by ingredients feature can work probably
+- Have an idea and overall look of the UI UX of the application 
+Week 7
+- Lam Nguyen: design UI UX for the application
+- Hoang Truong: work on main features of the application
+- Trung Tran: Check if the database is ready
+- Khang Le: work on main features of the application 
+- Meetings to review each other work, test what have been done and plan for the improvement and the nest tasks
+Building application features:
+-Menu: to suggest meals for breakfast, lunch, dinner, or deserts
+-Recipes: which are categorized by various types of food: meat, vegetables, noodles, bakery, etc
+-Adding tags to help users search meals more quickly. 
+-Calculating and displaying calories for each recipe.
+- User’s Feedback
+Week 8
+- Hoang Truong: Test the features if they actually work.
+- Trung Tran: Find and research ways to optimize the database.
+- Lam Nguyen: Debug
+- Khang Le: Test the features if they actually work.
+- Meetings to review each other work, test what have been done and plan for the improvement and the nest tasks
+-Detecting and fixing the existing errors of application 
+-Testing the feature to analyze how a normal user will use the application.
+-Adding and improving the features if it is necessary
+Week 9
+- Khang Le: find and rent a server
+- Hoang Truong: find hardware supplies
+- Trung Tran - Lam Nguyen: start finding recipes to input into database
+- Meetings to review each other work, test what have been done and plan for the improvement and the nest tasks
+- Completing the project database, including the recipe collection, nutrition and ingredient, and calories calculation. 
+- GitHub website and SSD
+
+
+Week 10
+- Khang Le - Hoang Truong : sketch the look of the app 
+- Lam Nguyen: Create help section
+- Trung Tran: create sign-in/sign-up section
+- Meetings to review each other work, test what have been done and plan for the improvement and the nest tasks
+Design mockup
+Week 11
+- Trung Tran: 
+- Hoang Truong- Khang Le: alpha testing the program
+- Lam Nguyen: 
+- Meetings to review each other work, test what have been done and plan for the improvement and the nest tasks
+-Finish the alpha version of the app
+Week 12
+Khang Le:  Overview and Aim
+Trung Tran: Roles and Scopes & limits
+Hoang Truong: Tools & Technologies and Testing
+Lam Nguyen: Risks and Group processes & communication
+Group: every other parts
+- Meetings to review each other work, test what have been done and plan for the improvement and the nest tasks
+- Meetings to form the project report structure and divide writing parts for each member
+- Writing final report
+
+
+Week 13
+- Khang Le: Creating the survey the users testing
+- Hoang Truong - Trung Tran - Lam Nguyen: recruiting participants
+- Meetings to review each other work, test what have been done and plan for the improvement and the nest tasks
+- Each members insert their individual writing parts to the report
+- Meetings to cross-check, do the group parts of the reports and plan for other parts of the report
+- Having users to test out application 
+Week 14
+- Khang Le - Trung Tran: analyze the results.
+- Hoang Truong - Lam Nguyen: finalize the results and feedback.
+ Meetings to review each other work, test what have been done and plan for the improvement and the nest tasks
+- Meetings to cross-check, review and do the group parts of the reports.
+Updating final report 
+Making the group presentation.
+Week 15
+As a group:
+If the feedback is positive:
+Launch the website
+If the feedback is negative:
+Try to fix what is said to be the problem in the feedback.
+Start another short users test 
+Launch the website 
+- Meetings to review each other work, test what have been done and plan for the improvement and the nest tasks
+- Meetings to cross-check, review and complete all the parts of the project report
+Depending on the feedback, come up with two plans.
+Week 16
+Last meeting to
+- Review all the application features, check its performance for the last time
+- Review the report
+- Reflect on the teamwork process 
+- Submit the report, give presentation and demo the application
+
+
+The success of the project
+
+
+Risks
+Missing deadlines
+This case occurs when our team cannot submit our group assignment on the due date. The cause of this problem may be that the member assigned for submitting the project has unexpected issues such as health, family, or trouble logging in to Canvas.
+Our team will try to complete and submit the work on Canvas a few days before the deadline to avoid this circumstance. If the team member assigned to do this work has some problems and cannot do this task, they need to notify the group to handle it promptly.
+
+Technological issues
+This problem occurs when we test our application and detect technical errors, such as inability to log in, incorrectly or poorly secured user data, etc. Therefore, we will check to ensure the product will not have any problems in each stage of application creation before submitting. If the error is too complicated for us to debug, we will discuss finding a reasonable solution or contact our course lecturers or tutors to get pieces of advice.
+
+Overcomplicating the project 
+This issue occurs when we include too many features in our project or implement a complex method beyond the team's ability. This step can make us consume more expected time and energy; as a result, we might conflict with our initial planning and timeframe.
+To overcome this problem, before performing our project, we will research and carefully analyze which features are essential to introduce to avoid using redundant items. While implementing our project, if any members whose task is too complicated for them and cannot complete on time, we will look for an alternative method to replace the previous one. 
+
+Personal issues
+When doing a group project, conflict might happen between members due to: 
+Team members have different knowledge and skills to perform the task. Team members who have more excellent skills can impatiently wait for others to catch up with the whole team.
+Improper division of work occurs when some members have to take on more work than others.
+Disagreement about opinions while implementing the project.
+To avoid this problem, each team member needs to improve their knowledge, learn how to use the necessary tools for the project, and not hesitate to communicate with the rest of the team when having any struggles. Moreover, while exchanging ideas or having disagreements, all members should be polite, patient, and respectful to listen to others' opinions. 
+
+Group processes and communications
+Currently, the Covid pandemic is still unpredictable in Vietnam, and most of our teams are in quarantine time and cannot know precisely when we can come back to the university. Hence, in the next 16 weeks, we will plan to have meetings online (via Microsoft Teams) or offline (at the campus), depending on the situation. However, our team will hold regular group meetings about once or twice a week from Monday to Friday to report our weekly works and discuss our plan in the next stage.
+If team members cannot attend our meeting, they must have a proper reason for their absence. Those who cannot finish their tasks and keep on schedule can ask for help from members having completed their work. If a member is usually absent from the group meetings, he or she may consider leaving the group.
+For the online meetings, we use Microsoft Teams to discuss general work, while Messenger is suitable for asking specific tasks and personal problems. In addition, we will use Google Docs or Words frequently to write and edit the whole team assignment.
+
+
+Skills and jobs
+If I am a manager of a team of 4 people to continue to develop the project to the next phase. The first position that I am going to add is a back-end developer to work in the back-end of the application. Back-end developer needs to have skills in a wide variety of coding niches, from database to graphic design and UI/UX management:
+•	Helping with the design and development of software
+•	Testing and debugging software to keep it optimized
+•	Writing clean code for the back end of the software
+•	Ensuring cross-platform compatibility and optimization
+•	Keeping up with technological advances to optimize their software
+-The second position that I am adding is a front-end developer to work in the front-end of the application:
+•	Designing user interactions on the web application itself
+•	Working with the back end developer on the UI/UX graphic design to make new features
+-The third position that I am going to add to my team is a cyber security analyst to help protecting the organization’s computer networks and systems:
+•	Identify weaknesses in networks’ security systems, patch or respond to issues, and prevent future breaches from occurring.
+•	Use various software, including programs designed to encrypt and protect data, to increase and strengthen the security of data.
+•	Design security protocols and systems, and to protect company data from hacks and breaches
+-The fourth position that I am adding is a cloud engineer to be responsible for any technical tasks related to cloud computing, including design, planning, maintenance, and support. A cloud engineer must be proficient in the operating systems, strong general programming skills, along with knowledge of programming languages:
+•	Be responsible for the company’s cloud development, test, pre-production, and production environments
+•	Review and recommend updating, maintenance and repair activities for the systems and services
+•	Perform automated performance and function tests for cloud service
+
+Feedback
+Khang:
+	Myself: In my opinion, I think I did well with my tasks, and I communicated well 
+		 with my team.
+	Trung: Trung did an excellent job with the tasks that he is given. He communicated 
+		with the group from the very beginning to the end. He is friendly and ready to 
+		listen to opinions from others.
+	Hoang: Hoang also did an excellent job with the tasks that he is given. He did a good 
+		job at communication with the group, as well as researching information to
+		finish his tasks.
+	Lam: Lam did an excellent job with the tasks that she is given. She is fairly quiet but 
+	         always on time and finishes her tasks. She also did research about her position
+	         and tasks, asking questions that are related to the project, and truly these things 
+	         helped us a lot with the project.
+Our group is very flexible with time and we always meet up twice a week. We are very focused when working with each other and that helps the workflow to go smoothly and I am proud of that. 
+
+Trung: 
+Myself: I personally believe that I have done my best with communicating, doing my tasks and cooperating with other team members.
+Khang is very good at expressing and listening to ideas and opinions. He did a very great job on both individual and group tasks of the project.
+Lam is very hardworking and friendly. Although she is quite less speaking, she always gives many valuable ideas and suggestions on the group work and contributes significantly in the project.
+Hoang is also quite less speaking but he did a very excellent job with both the individual divided and group tasks. He also contributed many great ideas and suggestions to the group project.
+Generally, I think they are friendly and hard working. Therefore we can communicate well and focus on the project throughout 4 weeks of the project.
+
+Hoang:
+In my opinion, on this project, I would say that I did my best to complete the work provided by my team, but there are still some mistakes in getting the work done, so my team members helped me a lot. Khang Le and Trung Tran are very friendly and always try to help their teammate if they are stuck, they are also extroverts which really help the team keep working on the project. Lam Nguyen is also very nice in the team, she is very comfortable with the time we ask for group meetings, she did not talk a lot while we do meeting sessions but she did all her work perfectly, and also asked a lot of good questions that help us work on the project.
+
+Lam:
+From my point of view, I think that I've tried all my best to complete assigned work and communicate with other teammates frequently. Khang Le and Trung Tran are really friendly, they always support other teammates who are struggling and give us clear explanations and instructions for doing the tasks step by step. They have various unique ideas and deeply understand the necessary steps and tools during the project operation. Hoang does not talk much during meetings, but he contributes numerous valuable ideas to the group project and finishes his divided tasks on schedule. Overall, our team is excellent and has solid cooperation while we are performing our group projects.
+
+
+Group reflection
+Our group meetings:
+
+Lam: 
+By joining the team and doing this project, I could gain more comprehensive knowledge about building applications and boost my essential skills.
+First of all, this project helps me to learn how to implement an IT project. To be more specific, I need to identify the tools and technologies required for this project,  which steps I need to follow while building a database, and some crucial features that I need to create for our application. In addition, I also have a chance to learn UI/UX design for the application to provide meaningful experiences for our target users. I am a freshman without any IT experience before, so this project brings many great opportunities for me to fulfill my IT knowledge for further studies.
+While attending this project, I can truly understand the power of teamwork. I am not the kind of out-going person, and sometimes I feel insecure about my IT ability when I see that other members have excellent IT understanding. However, our team members are charming and helpful; they do not discriminate and always encourage me to express my ideas, and support me when I am struggling with my tasks. Therefore, I can finish all of my work on time with their help.
+Besides enhancing IT-related skills, I could learn many soft skills after this project, such as time management, writing reports, and problem-solving.
+
+Hoang:
+In this project, most of the things went well, as first we aimed to finish the project within 2 weeks but then everyone was working hard and we almost finished at the end of day 5-6. We were able to do the work fast because our team split the work up and did the project faster. Each time we met for our meeting, we completed about 30% of the project so it did not take too much time finishing the project. I think if everyone is an extrovert, everything could be even faster and most importantly, our environment will be a lot more comfortable and maybe have a lot of fun while working so we will not stress out too much. There’s one thing I am surprised about my team is that they are very welcoming of introversion. Many people think that having an introvert in a team is very bad because they can not contribute anything to the group and people would leave out people who are introverted. While working with the team, I have learned things related to IT and I am very appreciative. I also learn more at problem-solving, collaboration within groups, and time management.
+
+Trung:
+We wanted to develop our project idea, describe it and outline the plan to do the project in the next 12 weeks. I believe that we have achieved this objective. We worked effectively together thanks to the attendance of all members in all the meetings, the on time completion of tasks and the contribution of every member's ideas, suggestions and writing in the group tasks. Personally I think we could improve our performance in writing group parts by becoming more active in suggesting ideas, expressing thinking and opinions. The thing that makes me most surprised is the agility and efficiency of how we contact each other, forming a group ,communicating and then working together. Those things were processed smoothly and effectively via platforms such as Outlook email, Teams chat and call, and Facebook Messenger. As working in a group, I have learned how to contribute ideas and suggestions, cross-check each other's work, and the most important is how we work and overcome challenges together.
+
+Khang: 
+After working with my team for 4 weeks, here are some of my thoughts on our group:
+- I think what went well for our group is that all of the team members did participate in the project. Everyone is responsible and always finishes their tasks on time.
+- What we could have improved as a group is that we could have scheduled more meetings so that we can get to know each other better. In my opinion, knowing your teammates can help a lot with the project, especially in decisions and workload division. 
+- The thing that was surprising about our group is that we did not have any disagreement and everything went smoothly and we did not have to argue about anything.
+- After working with this group, I realized that when we form a group, the first thing that we need to do is to get everyone on the same page so that it is easier to communicate and work with each other. 
+
+Reference list
+9 best practices for successful software testing projects. TestingWhiz. (2016, June 24). https://www.testing-whiz.com/blog/9-best-practices-for-successful-software-testing-projects.
+Bergen, A. (n.d.). The True Cost Of Eating Out (And How To Save). moneyunder30.com. https://www.moneyunder30.com/the-true-cost-of-eating-in-restaurants-and-how-to-save.
+A Global Analysis of Cooking Around the World. wcl-クックパッド. (n.d.). https://worldcookingindex.com/.
+Hunter. (2020, April 15). America gets Cooking. America Gets Cooking. https://www.prnewswire.com/news-releases/america-gets-cooking-301041036.html.
+Isaacs, M. (2021, June 19). 5 key software testing steps every engineer should perform. TechBeacon. https://techbeacon.com/app-dev-testing/5-key-software-testing-steps-every-engineer-should-perform.
+palaksinghal9903. (n.d.). Frontend vs backend. GeeksforGeeks. https://www.geeksforgeeks.org/frontend-vs-backend/.
+Parafianowicz, K. (2019, April 11). Software development team roles and responsibilities you should know. Custom Software & IT Outsourcing. https://softwarehut.com/blog/it-outsourcing/software-development-team-roles-and-responsibilities. 
+
+
+
+
